@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Browse_Microgame.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
